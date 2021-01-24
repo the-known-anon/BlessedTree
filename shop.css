@@ -29,3 +29,23 @@
   bottom: 0;
   right: -50px;
 }
+
+.balance {
+  background: #fa743f;
+  border-radius: 10px;
+  color: white;
+  border-color: #fa743f;
+  font-size: 20px;
+  text-decoration: none;
+}
+
+.balanceDiv {
+  display: flex;
+  width: 70%;
+
+  margin: 20px;
+}
+
+.balanceDiv button {
+  float: right;
+}
