@@ -4,14 +4,18 @@
 html {
   scroll-behavior: smooth;
 }
-body {
+/* body {
   background-color: rgb(251, 251, 243);
-}
+} */
 .illustration {
   display: flex;
 }
 img {
   position: relative;
+}
+.avatar {
+  border-radius: 50%;
+  width: 50px;
 }
 
 .div80 p {
