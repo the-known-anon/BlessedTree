@@ -26,22 +26,29 @@ img {
 }
 
 .plantTrees {
-  font-size: 30px;
-}
-
-.plantTrees {
   background: #fa743f;
   border-radius: 10px;
   color: white;
   border-color: #fa743f;
+  font-size: 30px;
+  text-decoration: none;
+}
+
+.plantTrees a {
+  text-decoration: none;
+  color: white;
 }
 .div80 {
   width: 90%;
 }
-
+.plantTrees a:hover {
+  text-decoration: none;
+  color: white;
+}
 .plantTrees:hover {
   background: #fa743f;
   border-color: #fa5717;
   text-decoration: none;
   color: white;
+  text-decoration: none;
 }
