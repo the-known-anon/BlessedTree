@@ -1,7 +1,7 @@
 .box {
   display: flex;
   width: 80%;
-  border: 2px solid #fa743f;
+  border: 2px solid #fc8454;
   margin: 20px;
 }
 .icon {
@@ -14,4 +14,7 @@
 .buyButton {
   display: inline;
   float: right;
+  background-color: tomato;
+  color: white;
+  border-color: tomato;
 }
