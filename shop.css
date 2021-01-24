@@ -14,7 +14,12 @@
 .buyButton {
   display: inline;
   float: right;
-  background-color: tomato;
+  background-color: #fa743f;
   color: white;
-  border-color: tomato;
+  border-color: #fa743f;
+}
+
+.buyButton:hover {
+  color: white;
+  transform: scale(1.1);
 }
