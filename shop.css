@@ -1,0 +1,17 @@
+.box {
+  display: flex;
+  width: 80%;
+  border: 2px solid #fa743f;
+  margin: 20px;
+}
+.icon {
+  display: inline;
+}
+.desc {
+  display: inline;
+}
+
+.buyButton {
+  display: inline;
+  float: right;
+}
